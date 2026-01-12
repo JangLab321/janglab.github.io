@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://janglab.github.io/sitemap.xml
+Sitemap: https://jangresearchlab.github.io/sitemap.xml
