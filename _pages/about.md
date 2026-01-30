@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -28,4 +28,5 @@ latest_posts:
 The Jang Laboratory aims to understand how the brain learns, makes decisions, and generates emotions—and how these processes shape behavior and mental health.
 We integrate immersive virtual reality (VR), mobile intracranial EEG, wearable technologies, motion tracking, and computational modeling to study how neural circuits support behavior in naturalistic settings. Our goal is to connect brain activity to real-world-like experience in ways that deepen our understanding of learning and decision-making, reveal how these processes differ in psychiatric disorders, and guide the development of more targeted, circuit-based interventions. 
 
-The Jang Lab is part of the UCLA Department of Psychiatry and Biobehavioral Sciences and the Jane and Terry Semel Institute for Neuroscience and Human Behavior, Division of Neuromodulation. 
+The Jang Lab is part of the [UCLA Department of Psychiatry and Biobehavioral Sciences](https://www.uclahealth.org/medical-services/psychiatry) and the [Jane and Terry Semel Institute for Neuroscience and Human Behavior](https://www.semel.ucla.edu), [Division of Neuromodulation](https://neuromodulation.ucla.edu). 
+
