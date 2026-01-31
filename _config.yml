@@ -59,6 +59,11 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
+navbar:
+  logo: /assets/img/logo.png
+  logo_dark: /assets/img/logo.png   # optional (for dark mode)
+  logo_width: 40px                  # optional
+
 # Dimensions
 max_width: 930px
 
