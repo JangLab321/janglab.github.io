@@ -16,7 +16,7 @@ profiles:
     more_info: 
 
   - align: left
-    image: 
+    image: 7.jpg
     content: about_jang.md
     image_circular: false # crops the image to make it circular
     more_info: >
