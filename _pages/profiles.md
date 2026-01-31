@@ -19,7 +19,7 @@ profiles:
       <p>Your City, State 12345</p>
   - align: left
     image: 2.jpg
-    content: xxxxx
+    content: about_jang.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
